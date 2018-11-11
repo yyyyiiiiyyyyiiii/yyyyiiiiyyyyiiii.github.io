@@ -1,0 +1,52 @@
+.my-card-title{
+	color:#4286f4;
+	font-family:fantasy;
+}
+h1{
+	color:#174ea8;
+	font-size: 45px;
+	font-family:cursive;
+}
+.red-table{
+	text-decoration:blink;
+	font-style:italic;
+	font-family: serif;
+	font-size: 30px;
+	color:#efb447;
+}
+h2{
+	color: #ef2f56;
+	font-family: 'Pacifico', cursive;
+}
+h3{
+	color:#f2de4b;
+	font-family: 'Pacifico', cursive;
+}
+.fa-map-marker{
+	color:#dd9e52;
+	font-family: 'Pacifico', cursive;
+}
+h5{
+	color:#174ea8;
+	font-family: font-family: 'Dancing Script', cursive;
+	font-size:30px;
+
+}
+.hero { 
+  background: url(http://pic.97uimg.com/back_pic/00/04/27/49/97830fc9ba9834212f0553ee479221af.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.apple { 
+  background: url(http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=d9329f2f8d44ebf8797c6c7cb190bd5f/1b4c510fd9f9d72ad20bb631de2a2834349bbbab.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: top;
+  background-size: cover;
+ 
+  height:300px;
+}
+
+
